@@ -1,12 +1,9 @@
 # De L.l
 
-'De L.l' is composed and lyrics written by Richel Bilderbeek on February 12th 2004.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'De Lul' (recorded on the 2nd of September of 2006)](http://www.richelbilderbeek.nl/CD06_09DeLul20060902.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'De Lul' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_05DeLul.ogg)
- * [Download the MP3 of 'De Lul' (recorded on the 2nd of September of 2006)](http://www.richelbilderbeek.nl/CD06_09DeLul20060902.mp3)
- * [Download the MP3 of 'De Lul' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_05DeLul.mp3)
- * [View the ABC file of 'De Lul'](DeLul.abc)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DeLul.md):
 
 ```
 De Lul
@@ -49,3 +46,7 @@ het werk dat 'ie had moeten doen
 
 Had ik nu maar geen pik!
 ```
+
+## Richel's review
+
+None yet.

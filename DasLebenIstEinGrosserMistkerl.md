@@ -1,13 +1,12 @@
 # Das Leben Ist Ein Grosser Mistkerl
 
-'Das Leben Ist Ein Grosser Mistkerl' is the German translation
-of [Het Leven Is Een Vuile Kolerelijer](HetLevenIsEenVuileKolerelijer.md),
-translated around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DasLebenIstEinGrosserMistkerl.md):
 
 ```
 Das Leben Ist Ein Grosser Mistkerl
-Written by Richel Bilderbeek
-
 
 Refrain:
 Das Leben ist ein grosser Mistkerl,
@@ -36,3 +35,7 @@ und dass ist den minus dreissig Euro wert
 
 Refrain
 ```
+
+## Richel's review
+
+None yet.

@@ -1,20 +1,12 @@
 # Een
 
-'Een' is a song written by Richel Bilderbeek on June 26th 2013. 
-Melody from 'Schnappi' by Iris Gruttmann.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Een.md):
 
 ```
 Een
-Lyrics written by Richèl Bilderbeek
-
-Chords:
-- Verse: 
-    G D G G
-    C G D D 
-    C D G G
-    G D G G
-- Chorus: 
-  C G D G (4x)
 
 1 + 1 = 2 of meer
 maar naar de Ikea boulevard 
@@ -62,12 +54,6 @@ dat elk getal zijn schoonheid heeft
 en ook mijn leven een functie heeft
 ```
 
-## Background
+## Richel's review
 
-I wanted to have a cheerfull song. 
-I already knew how to play Schnappi, 
-as I use that melody in the song [Koud Bloed In Mijn Hart](KoudBloedInMijnHart.md).
-But in that song, I uses a dramatic version of the Schnappi melody. 
-But Schnappi should be fun! 
-
-Somehow, this song was born when practicing the fun version of Schnappi.
+None yet.

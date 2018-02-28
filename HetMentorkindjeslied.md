@@ -1,19 +1,12 @@
 # Het Mentorkindjeslied
 
-'Het Mentorkindjeslied' is a ballad
-written by me on the 14th September 2002.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Mentorkindjeslied' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_09HetMentorkindjesLied.ogg)
- * [View the ABC notation file of 'Het Mentorkindjeslied' (abc)](HetMentorkindjeslied.abc)
- * [View the sheet music of 'Het Mentorkindjeslied' (ps)](HetMentorkindjeslied.ps)
- * [Download 'Het Mentorkindjeslied' (mp3) (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_09HetMentorkindjeslied.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/HetMentorkindjeslied.md):
 
 ```
 Het Mentorkindjeslied
-Written by Richel Bilderbeek
-On the 14th September 2002
-From http://www.richelbilderbeek.nl
-
 
 Grote gele kaasmaan 
 stralend in de lucht 
@@ -64,3 +57,7 @@ het leven is een klucht
 Kaas maan 
 neer gaan
 ```
+
+## Richel's review
+
+None yet.

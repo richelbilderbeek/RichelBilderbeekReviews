@@ -1,17 +1,12 @@
 # Das Leben Ist Mist
 
-'Das Leben Ist Mist' is the German translation of [Het Leven Is Naar](HetLevenIsNaar.md),
-translated around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Das Leben Ist Mist' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_03DasLebenIstMist.ogg)
- * [Download the MP3 of 'Das Leben Ist Mist' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_03DasLebenIstMist.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DasLebenIstMist.md):
 
 ```
 Das Leben Ist Mist
-Written by Richel Bilderbeek
-On the someday'th
-From http://www.richelbilderbeek.nl
-
 
 Fuer eine sehr lange Weile
 wenn ich noch klein war
@@ -48,3 +43,7 @@ aber alle Superschurken wohenn in Amerika
 
 Refrain
 ```
+
+## Richel's review
+
+None yet.

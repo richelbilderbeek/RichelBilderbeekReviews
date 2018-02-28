@@ -1,12 +1,12 @@
 # Koud Bloed In Mijn Hart
 
-'Koud Bloed In Mijn Hart' is a song with lyrics
-written by Richel Bilderbeek on October 22nd 2005,
-and a parody on 'Schnappi'
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/KoudBloedInMijnHart.md):
 
 ```
 Koud Bloed In Mijn Hart
-Written by Richel Bilderbeek
 
 Ik ben Schnappi, de kleine krokodil
 kom uit Egypte hum-hum-hum-hum-hum-il
@@ -33,3 +33,7 @@ maar de melodie is beter dan ik wil
 En omdat ik heel erg stijlvast ben
 maakte ik er een kuttekst van 
 ```
+
+## Richel's review
+
+None yet.

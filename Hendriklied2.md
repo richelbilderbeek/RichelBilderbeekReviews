@@ -1,15 +1,12 @@
 # Hendriklied 2
 
-'Hendriklied 2' is a song with lyrics written by Richel
-Bilderbeek on April 3th 2002. It is a parody of 'Dikkertje Dap' by
-Annie M.G. Schmidt. 
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [View the ABC notation file of 'Hendriklied 2' (abc)](Hendriklied2.abc)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Hendriklied2.md):
 
 ```
 Hendriklied 2
-Lyrics by Richel Bilderbeek
-Melody of 'Dikkertje Dap' by Annie M.G. Schmidt. 
 
 Hendrik de Cock,
 dat was een man,
@@ -45,3 +42,7 @@ Maar ons niet!
 't Geeft ons plezier,
 want we houden van elkaar en van bier!
 ```
+
+## Richel's review
+
+None yet.

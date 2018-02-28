@@ -1,16 +1,12 @@
 # Hendriklied 1
 
-Parody on 'Oh My Darling Clementine'.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [View the ABC notation of 'Hendriklied 1' (abc)](Hendriklied1.abc)
- * [View the sheet music of 'Hendriklied 1' (png)](Hendriklied1.png)
- * [View the sheet music of 'Hendriklied 1' (ps)](Hendriklied1.ps)
- * [Download 'Hendriklied 1' (mid)](http://www.richelbilderbeek.nl/SongHendriklied1.mid)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Hendriklied1.md):
 
 ```
 Hendriklied 1
-Written by Richel Bilderbeek
-On the 3th of April 2002
 
 Iets ten noorden
 Van het centrum
@@ -49,3 +45,7 @@ voor anderen is het hun huis
 voor sommigen 'n ASV
 voor anderen is het hun huis
 ```
+
+## Richel's review
+
+None yet.

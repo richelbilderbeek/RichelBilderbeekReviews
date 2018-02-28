@@ -1,14 +1,12 @@
 # Blau
 
-German translation of [Blauw](Blauw.md), around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download OGG of 'Blau' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_01Blau.ogg)
- * [Download MP3 of 'Blau' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_01Blau.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Blau.md):
 
 ```
 Blau
-Lyrics by Richel Bilderbeek
-Melody by Richel Bilderbeek
 
 Ich gebe ein Fest
 auf blau
@@ -24,6 +22,6 @@ weil ich dir kenne
 und nicht bin bei dir
 ```
 
-## Background
+## Richel's review
 
-I had to do a German translation quickly, so I did.
+None yet.

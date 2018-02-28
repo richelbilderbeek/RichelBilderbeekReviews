@@ -1,11 +1,12 @@
 # Wenn Du Haettest Blaue Haare
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wenn du haettest blaue Haare' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD04_10WennDuHaettestBlauweHaare.ogg)
- * [Download the MP3 of 'Wenn du haettest blaue Haare' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD04_10WennDuHaettestBlaueHaare.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/WennDuHaettestBlaueHaare.md):
 
 ```
 Wenn Du Haettest Blaue Haare
-Written by Richel Bilderbeek
 
 Auch wenn du haettest blaue Haare
 wird das nicht bedeuten dass,
@@ -27,3 +28,7 @@ Aber wenn du hast keine Schamhaare
 denn wird dass bedeuten dass,
 ich heute Abend mit dir paare
 ```
+
+## Richel's review
+
+None yet.

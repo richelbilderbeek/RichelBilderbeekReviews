@@ -1,4 +1,10 @@
 # Zonder Jou Weg
 
-'Zonder Jou Weg' is composed and written by Richel Bilderbeek
-on June 7th 2004.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/ZonderJouWeg.md):
+
+## Richel's review
+
+None yet.

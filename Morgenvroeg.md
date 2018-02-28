@@ -1,12 +1,12 @@
 # Morgenvroeg
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Morgenvroeg' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_06Morgenvroeg20060812.ogg)
- * [Download the MP3 of 'Morgenvroeg' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_06Morgenvroeg20060812.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Morgenvroeg.md):
 
 ```
 Morgenvroeg
-Written by Richel Bilderbeek
-On the 3rd June of 2004
 
 Ik zit
 weer in de kroeg
@@ -48,3 +48,7 @@ en daar heb ik geen zin
 dus ik zuipen tot de
 middag!
 ```
+
+## Richel's review
+
+None yet.

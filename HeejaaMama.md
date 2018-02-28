@@ -1,11 +1,9 @@
 # Heejaa Mama
 
-'Heejaa Mama' was written by me on the 30th October
-2009. The person that did the tabbing for me chooses to remain
-anonymous.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.ogg)
- * [Download the MP3 of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md):
 
 ```
 Heejaa Mama
@@ -80,3 +78,7 @@ heejaa mama niejeehoo
 heejaa mama niejeehoo
 heehee heeheehee
 ```
+
+## Richel's review
+
+None yet.

@@ -1,7 +1,10 @@
 # Kaesemond
 
-'Kaesemond' is the German translation of [Maanliedje](Maanliedje.md).
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Kaesemond' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_07KaeseMond.ogg)
- * [Download the MP3 of 'Kaesemond' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_07Kaesemond.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Kaesemond.md):
 
+## Richel's review
+
+None yet.

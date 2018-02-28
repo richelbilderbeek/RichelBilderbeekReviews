@@ -1,15 +1,12 @@
 # Plank Op Wieltjes
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Plank Op Wieltjes' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_10PlankOpWieltjes20060812.ogg)
- * [View a YouTube clip of 'Plank Op Wieltjes' (made by Jordy Kuiper)](http://youtube.com/watch?v=kL8vxocOiAc)
- * [Download the MP3 of 'Plank Op Wieltjes' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_10PlankOpWieltjes20060812.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/PlankOpWieltjes.md):
 
 ```
 Plank Op Wieltjes
-Written by Richel Bilderbeek
-On the 25th October 2005
-From http://www.richelbilderbeek.nl
-
 
 Peter ging op pad
 met een plank op wieltjes in z'n hand
@@ -41,7 +38,10 @@ zijn trui is gebrijt door z'n ma
 en of dat wel of niet cool is
 intr'seert Peter voor geen meter
 
-
-
 (to be continued)
 ```
+
+
+## Richel's review
+
+None yet.

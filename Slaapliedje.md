@@ -1,14 +1,12 @@
 # Slaapliedje
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Slaapliedje' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD03_14Slaapliedje.ogg)
- * [Download the MP3 of 'Slaapliedje' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD03_14Slaapliedje.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Slaapliedje.md):
 
 ```
 Slaapliedje
-Written by Richel Bilderbeek
-On the 18th and 19th January 2004
-From http://www.richelbilderbeek.nl
-
 
 Gerarda, Gerarda,
 ga nu maar lekker slapen,
@@ -25,3 +23,7 @@ ga nu maar lekker dromen,
 dan ben je morgen fit genoeg 
 om ze uit doen te komen
 ```
+
+## Richel's review
+
+None yet.

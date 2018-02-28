@@ -1,4 +1,10 @@
 # Wooloo Mooloo (German)
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_11WoolooMoolooDE.ogg)
- * [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_11WoolooMoolooDE.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/WoolooMoolooDe.md):
+
+## Richel's review
+
+None yet.

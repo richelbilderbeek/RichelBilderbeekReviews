@@ -1,9 +1,9 @@
 # O Mooie Geluidsvrouw
 
- * [View the ABC notation file of 'O Mooie Geluidsvrouw' (abc)](OMooieGeluidsvrouw.abc)
- * [View the sheet music of 'O Mooie Geluidsvrouw' (png)](OMooieGeluidsvrouw.png)
- * [Download the sheet music of 'O Mooie Geluidsvrouw' (ps)](OMooieGeluidsvrouw.ps)
- * [Download the music of 'O Mooie Geluidsvrouw' (mid)](http://www.richelbilderbeek.nl/SongOMooieGeluidsvrouw.mid)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/OMooieGeluidsvrouw.md):
 
 ```
 O Mooie Geluidsvrouw
@@ -34,3 +34,7 @@ maar het is veel te hoog
 Jij bent mooi, jij bent mooi 
 maar ik val toch meer op je broer
 ```
+
+## Richel's review
+
+None yet.

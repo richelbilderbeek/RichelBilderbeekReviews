@@ -1,15 +1,13 @@
 # The Clifton Suspension Bridge
 
-'The Clifton Suspension Bridge' is composed and lyrics written 
-by Richel Bilderbeek on May 24th to 27th May 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'The Clifton Suspension Bridge' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_19TheCliftonSuspensionBridge.ogg)
- * [Download the MP3 of 'The Clifton Suspension Bridge' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_19TheCliftonSuspensionBridge.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/TheCliftonSuspensionBridge.md):
 
 ```
 The Clifton Suspension Bridge
-By Richel Bilderbeek
- 
+
 Should I stay 
 should I go 
 what I want 
@@ -76,10 +74,6 @@ I can all he can
 except fly
 ```
 
-## Background
+## Richel's review
 
-I composed this song at a conservatory's practice piano in Bristol.
-The initial two notes impressed me in being both simple, repetitive,
-beautiful and depressing. The simplicity of those two notes resulted in
-a text that is just as simple. I enjoy the build-up of the song,
-from sad to dark to the bad joke in the end.
+None yet.

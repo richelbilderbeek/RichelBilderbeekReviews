@@ -1,22 +1,12 @@
 # Het Leven Is Naar
 
-'Het Leven Is Naar' is written on the 19th
-December 2002 by Richel Bilderbeek.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download 'Het Leven Is Naar' (ogg) (recorded on the 20th of Januari of 2007)](http://www.richelbilderbeek.nl/CD06_01HetLevenIsNaar20070120.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download 'Het Leven Is Naar' (ogg) (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_08HetLevenIsNaar.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download 'Het Leven Is Naar' (ogg) (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_05HetLevenIsNaar.ogg)
- * [View the sheet music of 'Het Leven Is Naar' (ps)](HetLevenIsNaar.ps)
- * [View the ABC notation file of 'Het Leven Is Naar' (abc)](HetLevenIsNaar.abc)
- * [Download 'Het Leven Is Naar' (mp3) (recorded on the 20th of Januari of 2007)](http://www.richelbilderbeek.nl/CD06_01HetLevenIsNaar20070120.mp3)
- * [Download 'Het Leven Is Naar' (mp3) (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_08HetLevenIsNaar.mp3)
- * [Download 'Het Leven Is Naar' (mp3) (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_05HetLevenIsNaar.mp3)
-
-## Lyrics
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/HetLevenIsNaar.md):
 
 ```
 Het Leven Is Naar
-By Richel Bilderbeek
 
 Heel erg lang geleden
 toen ik nog klein was
@@ -79,3 +69,8 @@ bleek hij een vagina te hebben
 Naar, naar, nananana nananana
 Naar, naar, het leven is naar
 ```
+
+
+## Richel's review
+
+None yet.

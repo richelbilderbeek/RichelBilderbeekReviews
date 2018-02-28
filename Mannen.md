@@ -1,16 +1,13 @@
 # Mannen
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Mannen' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_13Mannen.ogg)
- * [Download the MP3 of 'Mannen' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_13Mannen.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Mannen.md):
 
 ```
 Mannen
-Written by Richel Bilderbeek
-On the 1st and 2nd December 2003 
-From http://www.richelbilderbeek.nl
 
- 
 Toen ik jou zag staan 
 leek jij wat ik zocht 
 koopavond in knaakland 
@@ -80,3 +77,7 @@ ik vond je zo debiel
 net als alle andere vrouwen 
 en ik werd homofiel 
 ```
+
+## Richel's review
+
+None yet.

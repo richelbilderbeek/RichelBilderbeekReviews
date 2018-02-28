@@ -1,11 +1,12 @@
 # Das Kaffeelied
 
-'Das Kaffeelied' is the German translation of [Het Koffielied](HetKoffielied.md)
-written around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DasKaffeelied.md):
 
 ```
 Das Kaffeelied
-Written by Richel Bilderbeek
 
 CAMP
 das ist worauf wir steh'
@@ -14,3 +15,6 @@ durch PDE
 das finden wir
 nicht tollie gehen
 ```
+## Richel's review
+
+None yet.

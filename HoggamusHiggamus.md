@@ -1,15 +1,19 @@
 # Hoggamus Higgamus
 
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/HoggamusHiggamus.md):
+
 ```
 Hoggamus Higgamus
-Music by Richel Bilderbeek
-Text by William James
-Music written on the 5th October of 2002.
-From http://www.richelbilderbeek.nl
-
 
 Hoggamus higgamus
 man is polygamous
 Higgamus hoggamus
 woman is monogamous
 ```
+
+## Richel's review
+
+None yet.

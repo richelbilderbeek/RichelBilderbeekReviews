@@ -1,8 +1,9 @@
 # Monsier Pannetier
 
-'Monsier Pannetier' is a parody on the song 'Monsier Cannibale' by Sacha Distel.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
-## Lyrics
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/MonsierPannetier.md):
 
 French|English
 ---|---
@@ -35,23 +36,7 @@ Et comme déjà il n'etait pas bien gros il perdit 20 kilos au moins | And as al
 Quand arriva l'instant ou le perspicacité il fais comprendre sa temps est passé | When the moment of the great idea came, it made him understand he lost his time 
 Prends ton tronçonneusion et retourne chez elles le pauvre femmes s'écria jamais | He took his chainsawion, returned to them, the poor women never cried again 
 
-## Background
 
-On one day, when I saw when of my colleagues, instantly, the chorus was born.
-As with other songs (e.g. 'Het Leven Is Een Vuile Kolerelijer'), I knew the to-be-born
-song would distract me, until I would give birth to it.
+## Richel's review
 
-I knew my French is good enough to manage, but I asked some people to help
-me correct my mistakes and/or sing the lyrics. Instead of 'no', I got 
-'maybe(-that-in-practice-is-a-no)'. The urge to write proper French left me, 
-and I changed the style to be badly written French on purpose. It also helped
-me having more similar syllables between original and parody lyrics.
-
-While writing the song, I did not know how it would end. Would mister
-Pannetier get the girls or not? Traditionally, the song ended in a bad joke.
-A very cliche even-worse-than-bad-French bad joke.
-
-Perhaps one day, I will sing the song, and perhaps I will do so while
-playing the piano as well. But I do already enjoy the lyrics and that
-the chorus is out of my head. 
-
+None yet.

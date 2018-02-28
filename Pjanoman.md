@@ -1,12 +1,12 @@
 # Pjanoman
 
-'Pjanoman' is parody written by Richel Bilderbeek
-on February 14th 2015. Melody is from 'Pianoman' by Billy Joel.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md):
 
 ```
 Pjanoman
-Lyrics written by Richel Bilderbeek
-Melody from 'Pianoman' by Billy Joel
 
 T'is zeven uur 's ochtends op een zaterdag
 't eerste biertje zit er weer in
@@ -84,7 +84,6 @@ we drinken veel bier en hebben veel lol
 carnaval is dus feest nummer een!
 ```
 
-## Background
+## Richel's review
 
-I wrote this song in the train returning home from carnaval.
-I had a hang-over. I think it represents carnaval great.
+None yet.

@@ -1,13 +1,12 @@
 # Moordenaars
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Moordenaars' (recorded somewhere around 2006, with Sebastiaan van Agteren)](http://www.richelbilderbeek.nl/CD06_23Moordenaars.ogg)
- * [Download the MP3 of 'Moordenaars' (recorded somewhere around 2006, with Sebastiaan van Agteren)](http://www.richelbilderbeek.nl/CD06_23Moordenaars.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Moordenaars.md):
 
 ```
 Moordenaars
-Written by Osdorp Posse
-Covered by Richel Bilderbeek and Sebastiaan van Agteren
-From http://www.richelbilderbeek.nl
 
 Ik zat in tram vijf
 en m'n lul stond stijf,
@@ -47,3 +46,7 @@ zie je Def P. al in een cel, kom zeg!
 Je vindt me misschien een beetje raar,
 maar ik ben gewoon een moordenaar.
 ```
+
+## Richel's review
+
+None yet.

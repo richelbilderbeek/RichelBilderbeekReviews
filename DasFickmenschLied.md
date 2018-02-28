@@ -1,12 +1,10 @@
 # Das Fickmenschlied
 
-'Das Fickmenschlied' is the German translation of [Het N..kmenslied](HetNeukmenslied.md),
-written around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Das Fickmenschlied' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_02DasFickmenschLied.ogg)
- * [Download the MP3 of 'Das Fickmenschlied' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_02DasFickmenschlied.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DasFickmenschlied.md):
 
-## Background
+## Richel's review
 
-Had to translate to German, did not really want to do it well,
-just did it on the fly. 
+None yet.

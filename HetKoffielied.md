@@ -1,28 +1,12 @@
 # Het Koffielied
 
-'Het Koffielied' is written by me on the 11th May
-2001.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Koffielied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_06HetKoffieLied.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Koffielied' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_04HetKoffielied.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Koffielied' (recorded somewhere around 2001 with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_03HetKoffielied.ogg)
- * [Download 'Het Koffielied' (mid)](http://www.richelbilderbeek.nl/SongHetKoffielied.mid)
- * [View the sheet music of 'Het Koffielied' (png)](HetKoffielied.png)
- * [View the sheet music of 'Het Koffielied' (ps)](HetKoffielied.ps)
- * [View the sheet music of 'Het Koffielied' (mus)](HetKoffielied.mus)
- * [View the ABC notation file of 'Het Koffielied' (abc)](HetKoffielied.abc)
- * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_06HetKoffielied.mp3)
- * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_04HetKoffielied.mp3)
- * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2001 with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_03HetKoffielied.mp3)
-
-## Lyrics
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/HetKoffielied.md):
 
 ```
 Het Koffielied
-Written by Richel Bilderbeek
-On the 11th May 2001
-From http://www.richelbilderbeek.nl
-
 
 CAMP
 daarmee ben je tevree
@@ -30,3 +14,7 @@ en AMP
 door PDE daar
 ben je niet tevreden mee
 ```
+
+## Richel's review
+
+None yet.

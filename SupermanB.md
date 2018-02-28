@@ -1,21 +1,13 @@
 # Superman B
 
-'Superman B' is a song written by Richel Bilderbeek
-on the 30th of April 2013
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.ogg)
- * [Download the MP3 of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/SupermanB.md):
 
 ```
 Superman B
-
-Lyrics written by Richel Bilderbeek
-Melody composed on the 30th of April 2013 
-Lyrics composed on the 30th of April and the 21st of June 2013
-
-Chords:
-- regular: B E C#m F#
-- sensitive: G#m C#m G#m C#m G#m C#m D#m E
+by Richel Bilderbeek
 
 [REGULAR]
 Heel erg veel vroeger geleden
@@ -179,15 +171,6 @@ Heb ik een doktersrecept nodig
 die mijn hartslag weer verlaagt?
 ```
 
-## Background
+## Richel's review
 
-As many non-parodies songs start, I already had the melody.
-I enjoyed the melody, as it has two different tempi. I 
-practice the melody until one day the lyrics roll out.
-
-Then, the cause of many of my lyrics appeared: a girl.
-Starting from an internet search, the plot of the lyrics
-was formed. As usual, I take a high-status role. That she
-appeared to be a spy was a novelty. The rhyming ended
-up in me having to kill her the greater good. 
-I found that story sad, so I wrote a happier ending with a bad joke in the end.
+None yet.

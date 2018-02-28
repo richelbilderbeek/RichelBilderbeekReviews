@@ -1,17 +1,12 @@
 # Der Schwanz
 
-'Der Schwanz' is the German translation of [De L.l](DeLul.md),
-translated around April 2005.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Der Schwanz' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_04DerSchwanz.ogg)
- * [Download the MP3 of 'Der Schwanz' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_04DerSchwanz.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/DerSchwanz.md):
 
 ```
 Der Schwanz
-Written by Richel Bilderbeek
-On the someday'th
-From http://www.richelbilderbeek.nl
-
 
 Zeit in die Feder zu gehen,
 soll morgen wieder Gas geben,
@@ -47,3 +42,7 @@ was er sollte tun...
 
 Haette ich, nun mal kein Schwans...
 ```
+
+## Richel's review
+
+None yet.

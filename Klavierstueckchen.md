@@ -1,17 +1,12 @@
 # Klavierstueckchen
 
-'Klavierstueckchen' (EN: 'little piano play') is composed
-and lyrics written by Richel Bilderbeek on November 2nd 2004.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Klavierstueckchen' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_08KlavierStueckchen.ogg)
- * [Download the MP3 of 'Klavierstueckchen' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_08Klavierstueckchen.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Klavierstueckchen.md):
 
 ```
 Klavierstueckchen
-Written by Richel Bilderbeek
-On the 2nd November 2004
-From http://www.richelbilderbeek.nl
-
 
 Tief im Gedanken
 ueberdenk' ich mein Leben
@@ -172,3 +167,7 @@ es ist mein Gewissen
 und mein Lied
 endet sich
 ```
+
+## Richel's review
+
+None yet.

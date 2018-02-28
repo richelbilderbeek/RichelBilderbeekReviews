@@ -1,14 +1,12 @@
 # Mijn Date Van Vrijdagavond
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Mijn Date Van Vrijdagavond' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD06_15MijnDateVanVrijdagavond20070717_2.ogg)
- * [Download the MP3 of 'Mijn Date Van Vrijdagavond' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD06_15MijnDateVanVrijdagavond20060717_2.mp3)
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
+
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/MijnDateVanVrijdagavond.md):
 
 ```
 Mijn Date Van Vrijdagavond
-Written by Richel Bilderbeek
-On the 15th November 2005
-From http://www.richelbilderbeek.nl
-
 
 Mijn date van vrijdag ligt te slapen
 terwijl ik nog niet eens heb moeten gapen
@@ -75,3 +73,7 @@ toen er een auto aan kwam rijden
 mijn date ging mee
 met een-een-twee
 ```
+
+## Richel's review
+
+None yet.

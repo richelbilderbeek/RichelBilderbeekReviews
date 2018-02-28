@@ -1,10 +1,9 @@
 # Mars
 
-'Mars' is a song by Richel Bilderbeek
-written on January 15th 2014.
-It is a parody on 'Mars' by K3.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [Still unrecorded]
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Mars.md):
 
 ```
 Mars
@@ -26,3 +25,7 @@ En dat heeft niemand hier op Aarde
 Om te stappen nacht-na-nacht-na-nacht
 En toch naar het werk te gaan
 ```
+
+## Richel's review
+
+None yet.

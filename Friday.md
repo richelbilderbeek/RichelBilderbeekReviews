@@ -1,22 +1,12 @@
 # "Friday"
 
-'"Friday"' (note the quotation marks) is an
-improvement of Rebecca Black's 'Friday' (note no quotation marks).
-Although I do like the original, I have read all critiques on it and
-implemented those.
+ * Richel's rating: ?/10
+ * Richel's favorite lyric: ?
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
- * [View the sheet music of 'Friday' (ps)](Friday.ps)
- * [View the ABC notation of the sheet music of 'Friday' (abc)](Friday.abc)
- * [Download the MIDI music created from the ABC notation page of 'Friday' (mid)](http://www.richelbilderbeek.nl/SongFriday.mid)
- * [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](https://youtu.be/kfVsfOSbJY0)
- * [Go to the Rebecca Black homepage (htm)](http://rebeccablackonline.com)
- * [Download the MP3 of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.mp3)
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Friday.md):
 
 ```
 "Friday"
-Written by Richel Bilderbeek
-On the 10th of April 2011
 
 [VERSE1]
 .7 zip, extract in the morning 
@@ -336,3 +326,7 @@ We are having fun, c'mon, c'mon, y'all
 
 [POWER4]
 ```
+
+## Richel's review
+
+None yet.
