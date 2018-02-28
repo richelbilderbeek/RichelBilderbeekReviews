@@ -3,7 +3,7 @@
  * Richel's rating: ?/10
  * Richel's favorite lyric: ?
 
-Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/MonsierPannetier.md):
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/MonsieurPannetier.md):
 
 French|English
 ---|---

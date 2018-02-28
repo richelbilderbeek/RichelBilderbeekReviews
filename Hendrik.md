@@ -3,7 +3,7 @@
  * Richel's rating: ?/10
  * Richel's favorite lyric: ?
 
-Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Hendriklied.md):
+Lyrics from [here](https://github.com/richelbilderbeek/music/blob/master/Hendrik.md):
 
 ```
 Hendrik
