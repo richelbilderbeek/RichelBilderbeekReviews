@@ -4,15 +4,15 @@ Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/RichelBilderbeekReviews.svg?branch=master)](https://travis-ci.org/richelbilderbeek/RichelBilderbeekReviews)
 
-Reviews of all Richel Bilderbeek's songs
+Reviews of all Richel Bilderbeek's songs, ordered by CD.
 
-## CD 7: Ik Zing Alleen Voor De Koningin
+## CD 7: [Ik Zing Alleen Voor De Koningin](https://github.com/richelbilderbeek/IkZingAlleenVoorDeKoningin)
 
 ```
 No coverart yet
 ```
 
-## CD 6: Vijf Jaar Richel
+## CD 6: [Vijf Jaar Richel](https://github.com/richelbilderbeek/VijfJaarRichel)
 
 ![](CD06_Coverart.png)
 
@@ -41,7 +41,7 @@ No coverart yet
   23. [Moordenaars](Moordenaars.md)
   24. [Het Leven Is Een Vuile Ko....lijer](HetLevenIsEenVuileKolerelijer.md)
 
-## CD 5: De Wereld Rond
+## CD 5: [De Wereld Rond](https://github.com/richelbilderbeek/DeWereldRond)
 
 ![](CD05_Coverart.png)
 
@@ -78,7 +78,7 @@ No coverart yet
   31. [Dortmund](Dortmund.md)
   32. [Het Leven Is Een Vuile K.....lijer](HetLevenIsEenVuileKolerelijer.md)
 
-## CD 4: Fuer Dir, O, Liebe Fan
+## CD 4: [Fuer Dir, O, Liebe Fan](https://github.com/richelbilderbeek/FuerDirOliebeFan)
 
 ![](CD04_Coverart.png)
 
@@ -94,7 +94,7 @@ No coverart yet
   10. [Wenn Du Haettest Blaue Haare](WennDuHaettestBlaueHaare.md)
   11. [Wooloo Mooloo (DE)](WoolooMoolooDe.md)
 
-## CD 3: Richeldingen
+## CD 3: [Richeldingen](https://github.com/richelbilderbeek/Richeldingen)
 
 ![](CD03_Coverart.png)
 
@@ -116,7 +116,7 @@ No coverart yet
   16. Walsje
   17. [Wooloo Mooloo](WoolooMooloo.md)
 
-## CD 2: Dingen Voor 2004
+## CD 2: [Dingen Voor 2004](https://github.com/richelbilderbeek/DingenVoor2004)
 
 ![](CD02_Coverart.png)
 
@@ -130,7 +130,7 @@ No coverart yet
   08. [Wooloo Mooloo](WoolooMooloo.md) 
 
 
-## CD 1: Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet
+## CD 1: [Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet](https://github.com/richelbilderbeek/Quartet)
 
 ![](CD01_Coverart.png)
 
