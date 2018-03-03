@@ -16,6 +16,31 @@ No coverart yet
 
 ![](CD06_Coverart.png)
 
+  01. [Het Leven Is Naar](HetLevenIsNaar.md)
+  02. [Blauw](Blauw.md)
+  03. [Leontien](Leontien.md)
+  04. [Mannen](Mannen.md)
+  05. [Het N..kmenslied](HetNeukmenslied.md)
+  06. [Morgenvroeg](Morgenvroeg.md)
+  07. [Het Mentorkindjeslied](HetMentorkindjeslied.md)
+  08. [Hendriklied 3](Hendriklied3.md)
+  09. [De L.l](DeLul.md)
+  10. [Plank Op Wieltjes](PlankOpWieltjes.md)
+  11. [Het Koffielied](HetKoffielied.md)
+  12. [Vroeger](Vroeger.md)
+  13. [Kinderliefde](Kinderliefde.md)
+  14. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
+  15. [Mijn Date Van Vrijdagavond](MijnDateVanVrijdagavond.md)
+  16. [Wooloo Mooloo](WoolooMooloo.md)
+  17. [Achter Mijn Raam](AchterMijnRaam.md)
+  18. [You And Me](YouAndMe.md)
+  19. [The Clifton Suspension Bridge](TheCliftonSuspensionBridge.md)
+  20. [To The Pub](ToThePub.md)
+  21. [Klavierstueckchen](Klavierstueckchen.md)
+  22. [Die Rolltreppe Und Ich](DieRolltreppeUndIch.md)
+  23. [Moordenaars](Moordenaars.md)
+  24. [Het Leven Is Een Vuile Ko....lijer](HetLevenIsEenVuileKolerelijer.md)
+
 ## CD 5: De Wereld Rond
 
 ![](CD05_Coverart.png)
