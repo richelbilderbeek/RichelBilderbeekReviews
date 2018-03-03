@@ -26,33 +26,51 @@ No coverart yet
 
 ## CD 3: Richeldingen
 
-![](CD03_Coverart.png)
+![](Coverart.png)
+
+  01. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
+  02. [Blauw](Blauw.md)
+  03. [Come Home Darling](ComeHomeDarling.md)
+  04. Concert Joost
+  05. [De L.l](DeLul.md)
+  06. [Het Koffielied](HetKoffielied.md)
+  07. [Het Leven Is Een Vuile ...........](HetLevenIsEenVuileKolerelijer.md)
+  08. [Het Leven Is Naar](HetLevenIsNaar.md)
+  09. [Het Mentorkindjeslied](HetMentorkindjeslied.md)
+  10. [Het N..kmenslied](HetNeukmenslied.md)
+  11. [Kinderliefde](Kinderliefde.md)
+  12. [Leontien](Leontien.md)
+  13. [Mannen](Mannen.md)
+  14. [Slaapliedje](Slaapliedje.md)
+  15. [Vroeger](Vroeger.md)
+  16. [Walsje](Walsje.md)
+  17. [Wooloo Mooloo](WoolooMooloo.md)
 
 ## CD 2: Dingen Voor 2004
 
 ![](CD02_Coverart.png)
 
- * 01. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
- * 02. [Come Home Darling](ComeHomeDarling.md)
- * 03. Eerste Signaal
- * 04. [Het Koffielied](HetKoffielied.md) 
- * 05. [Het Leven Is Naar](HetLevenIsNaar.md) 
- * 06. [Het N..kmenslied](HetNeukmenslied.md) 
- * 07. Russisch Liedje 
- * 08. [Wooloo Mooloo](WoolooMooloo.md) 
+  01. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
+  02. [Come Home Darling](ComeHomeDarling.md)
+  03. Eerste Signaal
+  04. [Het Koffielied](HetKoffielied.md) 
+  05. [Het Leven Is Naar](HetLevenIsNaar.md) 
+  06. [Het N..kmenslied](HetNeukmenslied.md) 
+  07. Russisch Liedje 
+  08. [Wooloo Mooloo](WoolooMooloo.md) 
 
 
 ## CD 1: Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet
 
 ![](CD01_Coverart.png)
 
- 01. [Ode Aan Masculiniteit (vocaal)](OdeAanMasculiniteit.md)
- 02. [Maanliedje](Maanliedje.md)
- 03. [Het Koffielied](HetKoffielied.md)
- 04. [Grote Gele Sinaasappel](GroteGeleSinaasappel.md)
- 05. [Ode Aan Masculiniteit](OdeAanMasculiniteit.md)
- 06. [Maanliedje (remix)](Maanliedje.md)
- 07. [Het Koffielied (remix)](HetKoffielied.md)
- 08. [Grote Gele Sinaasappel (remix)](GroteGeleSinaasappel.md)
- 09. [Ode Aan Masculiniteit (remix)](OdeAanMasculiniteit.md)
- 10. [Hendrik (vocaal)](Hendrik.md)
+  01. [Ode Aan Masculiniteit (vocaal)](OdeAanMasculiniteit.md)
+  02. [Maanliedje](Maanliedje.md)
+  03. [Het Koffielied](HetKoffielied.md)
+  04. [Grote Gele Sinaasappel](GroteGeleSinaasappel.md)
+  05. [Ode Aan Masculiniteit](OdeAanMasculiniteit.md)
+  06. [Maanliedje (remix)](Maanliedje.md)
+  07. [Het Koffielied (remix)](HetKoffielied.md)
+  08. [Grote Gele Sinaasappel (remix)](GroteGeleSinaasappel.md)
+  09. [Ode Aan Masculiniteit (remix)](OdeAanMasculiniteit.md)
+  10. [Hendrik (vocaal)](Hendrik.md)
