@@ -20,6 +20,39 @@ No coverart yet
 
 ![](CD05_Coverart.png)
 
+  01. [Het Leven Is Naar](HetLevenIsNaar.md)
+  02. [Blauw](Blauw.md)
+  03. [Leontien](Leontien.md)
+  04. [Slaapliedje](Slaapliedje.md)
+  05. [Mannen](Mannen.md)
+  06. [Het N..kmenslied](HetNeukmenslied.md)
+  07. [Het Mentorkindjeslied](HetMentorkindjeslied.md)
+  08. [Hendriklied 3](Hendriklied3.md)]
+  09. [De L.l](DeLul.md)
+  10. [Het Koffielied](HetKoffielied.md)
+  11. [Vroeger](Vroeger.md)
+  12. [Kinderliefde](Kinderliefde.md)
+  13. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
+  14. [Wooloo Mooloo](WoolooMooloo.md)
+  15. [Life Is A B.tch](LifeIsAbitch.md)
+  16. [Come Home Darling](ComeHomeDarling.md)
+  17. [Even If Your Hair Is Blue](EvenIfYourHairIsBlue.md)
+  18. [You And Me](YouAndMe.md)
+  19. [The Clifton Suspension Bridge](TheCliftonSuspensionBridge.md)
+  20. [To The Pub](ToThePub.md)
+  21. [Das Leben Ist Mist](DasLebenIstMist.md)
+  22. [Klavierstueckchen](Klavierstueckchen.md)
+  23. [Die Rolltreppe Und Ich](DieRolltreppeUndIch.md)
+  24. [Blau](Blau.md)
+  25. [Das Fickmenschlied](DasFickmenschlied.md)
+  26. [Kaesemond](Kaesemond.md)
+  27. [Der Schw.nz](DerSchwanz.md)
+  28. [Wenn Du Haettest Blaue Haare](WennDuHaettestBlaueHaare.md)
+  29. [Morgensfrueh](Morgensfrueh.md)
+  30. [Wooloo Mooloo (DE)](WoolooMoolooDe.md)
+  31. [Dortmund](Dortmund.md)
+  32. [Het Leven Is Een Vuile K.....lijer](HetLevenIsEenVuileKolerelijer.md)
+
 ## CD 4: Fuer Dir, O, Liebe Fan
 
 ![](CD04_Coverart.png)
@@ -38,7 +71,7 @@ No coverart yet
 
 ## CD 3: Richeldingen
 
-![](Coverart.png)
+![](CD03_Coverart.png)
 
   01. [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
   02. [Blauw](Blauw.md)
