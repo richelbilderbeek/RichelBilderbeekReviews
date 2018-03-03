@@ -113,7 +113,7 @@ No coverart yet
   13. [Mannen](Mannen.md)
   14. [Slaapliedje](Slaapliedje.md)
   15. [Vroeger](Vroeger.md)
-  16. [Walsje](Walsje.md)
+  16. Walsje
   17. [Wooloo Mooloo](WoolooMooloo.md)
 
 ## CD 2: Dingen Voor 2004
