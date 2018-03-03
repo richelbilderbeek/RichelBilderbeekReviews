@@ -24,6 +24,18 @@ No coverart yet
 
 ![](CD04_Coverart.png)
 
+  01. [Blau](Blau.md)
+  02. [Das F..kmenschlied](DasFickmenschlied.md)
+  03. [Das Leben Ist Mist](DasLebenIstMist.md)
+  04. [Der Schw..z](DerSchwanz.md)
+  05. [Die Rolltreppe Und Ich](DieRolltreppeUndIch.md)
+  06. [Dortmund](Dortmund.md)
+  07. [Kaesemond](Kaesemond.md)
+  08. [Klavierstueckchen](Klavierstueckchen.md)
+  09. [Morgensfrueh](Morgensfrueh.md)
+  10. [Wenn Du Haettest Blaue Haare](WennDuHaettestBlaueHaare.md)
+  11. [Wooloo Mooloo (DE)](WoolooMoolooDe.md)
+
 ## CD 3: Richeldingen
 
 ![](Coverart.png)
